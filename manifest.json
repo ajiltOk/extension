@@ -9,9 +9,7 @@
     "64": "icons/info-64.png",
     "128": "icons/info-128.png"
   },
-  "action": {
-    "default_popup": "weather_popup.html"
-  },
+  "action": {},
   "permissions": ["scripting", "activeTab", "tabs", "storage"],
   "content_scripts": [
     {
