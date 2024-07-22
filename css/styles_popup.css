@@ -1,0 +1,14 @@
+.start {
+  width: 200px;
+  color: white;
+  background: linear-gradient(#01a9e1, #5bc4bc);
+  border-width: 0px;
+  border-radius: 20px;
+  padding: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+h1 {
+  font-size: 20px;
+}
